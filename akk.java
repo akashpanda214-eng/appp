@@ -19,5 +19,9 @@ public class akk {
         System.out.println("The sum is: " + sum);
 
         scanner.close();
+
+    gggg   System.out.println("The sum is: " + sum);
+
     }
 }
+
